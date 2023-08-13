@@ -19,4 +19,4 @@ En este proyecto, se tiene unna plantilla y modelo de gestión de ventas.
 - En byethost7: http://shermandeploy.byethost7.com/Backend_Apirest_PHP_users/users?page=1
 
 
-![Tecnologías]([https://i.ytimg.com/vi/carsqIG6B78/hqdefault.jpg](https://cdn.educba.com/academy/wp-content/uploads/2019/09/PHP-Database-Connection.png)https://cdn.educba.com/academy/wp-content/uploads/2019/09/PHP-Database-Connection.png)
+![Tecnologías](https://cdn.educba.com/academy/wp-content/uploads/2019/09/PHP-Database-Connection.png)
